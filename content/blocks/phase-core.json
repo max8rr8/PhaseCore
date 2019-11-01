@@ -1,0 +1,21 @@
+{
+  "canBreak": true,
+  "category": "effect",
+  "description": "Core that can be built by player. Useful for intresting constructions",
+  "health": 100,
+  "itemCapacity": "500",
+  "name": "Phase Core",
+  "requirements": [
+    {
+      "amount": 80,
+      "item": "phase-fabric"
+    },
+    {
+      "amount": "160",
+      "item": "silicon"
+    }
+  ],
+  "research": "container",
+  "size": 2,
+  "type": "CoreBlock"
+}
